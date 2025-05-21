@@ -1,4 +1,4 @@
-# ❄️ CoolGuard
+# ❄️ IceGuard
 
 **Need help or wanna vibe? [Join the server](https://discord.gg/gMmYcQKGHm)**
 
@@ -22,4 +22,4 @@ Or clone with Git:
 
 ```bash
 git clone https://github.com/Zenxoxz/IceGuard.git
-cd CoolGuard
+cd IceGuard
