@@ -25,4 +25,4 @@ git clone https://github.com/Zenxoxz/IceGuard.git
 cd IceGuard
 ```
 
-![Image Alt Text]([https://raw.githubusercontent.com/Zenxoxz/NUKE-BOT/refs/heads/main/ZEN_NUKE.png](https://github.com/Zenxoxz/IceGuard/blob/1632a44da18d8f7d17686e31f88ceb85393778e9/slashcommands%20SS.jpg))
+![Image Alt Text](https://github.com/Zenxoxz/IceGuard/blob/1632a44da18d8f7d17686e31f88ceb85393778e9/slashcommands%20SS.jpg)
