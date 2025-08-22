@@ -26,7 +26,7 @@ Download the repo as a `.zip` and extract it.
 Or clone it using Git:
 
 ```bash
-git clone https://github.com/Zenxoxz/IceGuard.git
+git clone https://github.com/nowyhub/IceGuard.git
 cd IceGuard
 ```
 
