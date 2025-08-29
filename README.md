@@ -1,7 +1,5 @@
 # ❄️ IceGuard
 
-**Need help or wanna vibe? [Join the server](https://discord.gg/gMmYcQKGHm)**
-
 ---
 
 ## ⚙️ Features
